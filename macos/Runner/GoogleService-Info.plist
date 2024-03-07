@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>540030725712-lobgb8q34ucdl1u0h60g6lvubu061qc3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.540030725712-lobgb8q34ucdl1u0h60g6lvubu061qc3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBs3DS9nnQNeLGemslNYVVHYNpKmu03bRY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>540030725712</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.healthApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>health-app-1e75d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>health-app-1e75d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:540030725712:ios:4178de6e895da17904ab55</string>
+</dict>
+</plist>
